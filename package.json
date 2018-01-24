@@ -1,0 +1,14 @@
+{
+  "name": "app-node-mysql-sandpit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+      "mysql": "~2.14.1"
+  },
+  "author": "mark hopcraft",
+  "license": "ISC"
+}
